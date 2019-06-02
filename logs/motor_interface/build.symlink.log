@@ -1,0 +1,4 @@
+Symlinking /home/kal1-4/anicar_ws/devel/share/motor_interface/cmake/motor_interfaceConfig.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/share/motor_interface/cmake/motor_interfaceConfig-version.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/lib/libmotor_interface.so
+Symlinking /home/kal1-4/anicar_ws/devel/lib/pkgconfig/motor_interface.pc

@@ -1,0 +1,204 @@
+[35m[1mScanning dependencies of target gtest[0m
+[  3%] [32mBuilding CXX object gtest/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[  3%] Built target _catkin_empty_exported_target
+[  6%] [32m[1mLinking CXX shared library libgtest.so[0m
+[  6%] Built target gtest
+[35m[1mScanning dependencies of target cornucopia[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/TwoCurveCombine.cpp.o[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/Line.cpp.o[0m
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/TwoCurveCombine.cpp:[m[K In function ‘[01m[KCornu::Combination Cornu::twoCurveCombine(int, int, int, const Cornu::Fitter&)[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/TwoCurveCombine.cpp:410:30:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kpts[m[K’ [[01;35m[K-Wunused-variable[m[K]
+     const VectorC<Vector2d> &[01;35m[Kpts[m[K = fitter.output<RESAMPLING>()->output->pts();
+                              [01;35m[K^~~[m[K
+[ 16%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/GraphConstructor.cpp.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/PrimitiveFitUtils.cpp.o[0m
+[ 23%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/PrimitiveFitter.cpp.o[0m
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/GraphConstructor.cpp:[m[K In member function ‘[01m[Kvirtual void Cornu::DefaultGraphConstructor::_run(const Cornu::Fitter&, Cornu::AlgorithmOutput<8>&)[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/GraphConstructor.cpp:336:21:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[KminType[m[K’ [[01;35m[K-Wunused-variable[m[K]
+                 int [01;35m[KminType[m[K = firstCurveConstrained ? continuity : 0;
+                     [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/PrimitiveFitUtils.cpp:21:0[m[K:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:[m[K In constructor ‘[01m[KCornu::LineFitter::LineFitter()[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:67:12:[m[K [01;35m[Kwarning: [m[K‘[01m[KCornu::LineFitter::_crossSum[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+     double [01;35m[K_crossSum[m[K;
+            [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:62:9:[m[K [01;35m[Kwarning: [m[K  ‘[01m[KCornu::LineFitter::Vec Cornu::LineFitter::_firstPoint[m[K’ [[01;35m[K-Wreorder[m[K]
+     Vec [01;35m[K_firstPoint[m[K, _lastPoint;
+         [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:51:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+     [01;35m[KLineFitter[m[K() : _numPts(0), _totWeight(0.), _crossSum(0.),
+     [01;35m[K^~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:[m[K In constructor ‘[01m[KCornu::ArcFitter::ArcFitter()[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:86:12:[m[K [01;35m[Kwarning: [m[K‘[01m[KCornu::ArcFitter::_totWeight[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+     double [01;35m[K_totWeight[m[K;
+            [01;35m[K^~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:83:21:[m[K [01;35m[Kwarning: [m[K  ‘[01m[KEigen::Matrix3d Cornu::ArcFitter::_squaredSum[m[K’ [[01;35m[K-Wreorder[m[K]
+     Eigen::Matrix3d [01;35m[K_squaredSum[m[K;
+                     [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:73:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+     [01;35m[KArcFitter[m[K() : _totWeight(0.), _squaredSum(_squaredSum.Zero()), _sum(_sum.Zero()) {}
+     [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:[m[K In constructor ‘[01m[KCornu::ClothoidFitter::ClothoidFitter()[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:119:12:[m[K [01;35m[Kwarning: [m[K‘[01m[KCornu::ClothoidFitter::_totalLength[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+     double [01;35m[K_totalLength[m[K;
+            [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:116:12:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kdouble Cornu::ClothoidFitter::_prevAngle[m[K’ [[01;35m[K-Wreorder[m[K]
+     double [01;35m[K_prevAngle[m[K;
+            [01;35m[K^~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:95:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+     [01;35m[KClothoidFitter[m[K() : _totalLength(0), _prevAngle(0), _angleIntegral(0),
+     [01;35m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:117:12:[m[K [01;35m[Kwarning: [m[K‘[01m[KCornu::ClothoidFitter::_angleIntegral[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+     double [01;35m[K_angleIntegral[m[K;
+            [01;35m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:113:21:[m[K [01;35m[Kwarning: [m[K  ‘[01m[KEigen::Vector2d Cornu::ClothoidFitter::_centerOfMass[m[K’ [[01;35m[K-Wreorder[m[K]
+     Eigen::Vector2d [01;35m[K_centerOfMass[m[K;
+                     [01;35m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:95:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+     [01;35m[KClothoidFitter[m[K() : _totalLength(0), _prevAngle(0), _angleIntegral(0),
+     [01;35m[K^~~~~~~~~~~~~~[m[K
+[ 26%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/Algorithm.cpp.o[0m
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/PrimitiveFitUtils.cpp:[m[K In member function ‘[01m[KCornu::LinePtr Cornu::LineFitter::getCurve() const[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/PrimitiveFitUtils.cpp:63:14:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[KeigVs[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+     Vector2d [01;35m[KeigVs[m[K = eigenSolver.eigenvalues();
+              [01;35m[K^~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/PrimitiveFitUtils.cpp:[m[K In member function ‘[01m[KCornu::ArcPtr Cornu::ArcFitter::getCurve() const[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/PrimitiveFitUtils.cpp:93:14:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[KeigVs[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+     Vector3d [01;35m[KeigVs[m[K = eigenSolver.eigenvalues();
+              [01;35m[K^~~~~[m[K
+In file included from [01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/PrimitiveFitter.cpp:25:0[m[K:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:[m[K In constructor ‘[01m[KCornu::LineFitter::LineFitter()[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:67:12:[m[K [01;35m[Kwarning: [m[K‘[01m[KCornu::LineFitter::_crossSum[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+     double [01;35m[K_crossSum[m[K;
+            [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:62:9:[m[K [01;35m[Kwarning: [m[K  ‘[01m[KCornu::LineFitter::Vec Cornu::LineFitter::_firstPoint[m[K’ [[01;35m[K-Wreorder[m[K]
+     Vec [01;35m[K_firstPoint[m[K, _lastPoint;
+         [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:51:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+     [01;35m[KLineFitter[m[K() : _numPts(0), _totWeight(0.), _crossSum(0.),
+     [01;35m[K^~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:[m[K In constructor ‘[01m[KCornu::ArcFitter::ArcFitter()[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:86:12:[m[K [01;35m[Kwarning: [m[K‘[01m[KCornu::ArcFitter::_totWeight[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+     double [01;35m[K_totWeight[m[K;
+            [01;35m[K^~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:83:21:[m[K [01;35m[Kwarning: [m[K  ‘[01m[KEigen::Matrix3d Cornu::ArcFitter::_squaredSum[m[K’ [[01;35m[K-Wreorder[m[K]
+     Eigen::Matrix3d [01;35m[K_squaredSum[m[K;
+                     [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:73:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+     [01;35m[KArcFitter[m[K() : _totWeight(0.), _squaredSum(_squaredSum.Zero()), _sum(_sum.Zero()) {}
+     [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:[m[K In constructor ‘[01m[KCornu::ClothoidFitter::ClothoidFitter()[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:119:12:[m[K [01;35m[Kwarning: [m[K‘[01m[KCornu::ClothoidFitter::_totalLength[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+     double [01;35m[K_totalLength[m[K;
+            [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:116:12:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kdouble Cornu::ClothoidFitter::_prevAngle[m[K’ [[01;35m[K-Wreorder[m[K]
+     double [01;35m[K_prevAngle[m[K;
+            [01;35m[K^~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:95:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+     [01;35m[KClothoidFitter[m[K() : _totalLength(0), _prevAngle(0), _angleIntegral(0),
+     [01;35m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:117:12:[m[K [01;35m[Kwarning: [m[K‘[01m[KCornu::ClothoidFitter::_angleIntegral[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+     double [01;35m[K_angleIntegral[m[K;
+            [01;35m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:113:21:[m[K [01;35m[Kwarning: [m[K  ‘[01m[KEigen::Vector2d Cornu::ClothoidFitter::_centerOfMass[m[K’ [[01;35m[K-Wreorder[m[K]
+     Eigen::Vector2d [01;35m[K_centerOfMass[m[K;
+                     [01;35m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:95:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+     [01;35m[KClothoidFitter[m[K() : _totalLength(0), _prevAngle(0), _angleIntegral(0),
+     [01;35m[K^~~~~~~~~~~~~~[m[K
+[ 30%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/Oversketcher.cpp.o[0m
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/PrimitiveFitter.cpp:[m[K In member function ‘[01m[Kvirtual void Cornu::DefaultPrimitiveFitter::_run(const Cornu::Fitter&, Cornu::AlgorithmOutput<7>&)[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/PrimitiveFitter.cpp:232:32:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Klength[m[K’ [[01;35m[K-Wunused-variable[m[K]
+                         double [01;35m[Klength[m[K = poly->lengthFromTo(i, fit.endIdx);
+                                [01;35m[K^~~~~~[m[K
+[ 33%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/PiecewiseLinearUtils.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/Polyline.cpp.o[0m
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/PiecewiseLinearUtils.cpp:[m[K In member function ‘[01m[Kbool Cornu::PiecewiseLinearMonotone::batchEval(std::vector<double>&) const[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/PiecewiseLinearUtils.cpp:161:18:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Ktol[m[K’ [[01;35m[K-Wunused-variable[m[K]
+     const double [01;35m[Ktol[m[K = 1e-8;
+                  [01;35m[K^~~[m[K
+[ 40%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/PrimitiveSequence.cpp.o[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/CornerDetector.cpp.o[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/Debugging.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/SimpleAPI.cpp.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/Fitter.cpp.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/Parameters.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/Bezier.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/Clothoid.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/Fresnel.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/Resampler.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/CurvePrimitive.cpp.o[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/Arc.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/Solver.cpp.o[0m
+In file included from [01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/Resampler.cpp:27:0[m[K:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:[m[K In constructor ‘[01m[KCornu::LineFitter::LineFitter()[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:67:12:[m[K [01;35m[Kwarning: [m[K‘[01m[KCornu::LineFitter::_crossSum[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+     double [01;35m[K_crossSum[m[K;
+            [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:62:9:[m[K [01;35m[Kwarning: [m[K  ‘[01m[KCornu::LineFitter::Vec Cornu::LineFitter::_firstPoint[m[K’ [[01;35m[K-Wreorder[m[K]
+     Vec [01;35m[K_firstPoint[m[K, _lastPoint;
+         [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:51:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+     [01;35m[KLineFitter[m[K() : _numPts(0), _totWeight(0.), _crossSum(0.),
+     [01;35m[K^~~~~~~~~~[m[K
+[ 83%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/ErrorComputer.cpp.o[0m
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:[m[K In constructor ‘[01m[KCornu::ArcFitter::ArcFitter()[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:86:12:[m[K [01;35m[Kwarning: [m[K‘[01m[KCornu::ArcFitter::_totWeight[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+     double [01;35m[K_totWeight[m[K;
+            [01;35m[K^~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:83:21:[m[K [01;35m[Kwarning: [m[K  ‘[01m[KEigen::Matrix3d Cornu::ArcFitter::_squaredSum[m[K’ [[01;35m[K-Wreorder[m[K]
+     Eigen::Matrix3d [01;35m[K_squaredSum[m[K;
+                     [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:73:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+     [01;35m[KArcFitter[m[K() : _totWeight(0.), _squaredSum(_squaredSum.Zero()), _sum(_sum.Zero()) {}
+     [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:[m[K In constructor ‘[01m[KCornu::ClothoidFitter::ClothoidFitter()[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:119:12:[m[K [01;35m[Kwarning: [m[K‘[01m[KCornu::ClothoidFitter::_totalLength[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+     double [01;35m[K_totalLength[m[K;
+            [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:116:12:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kdouble Cornu::ClothoidFitter::_prevAngle[m[K’ [[01;35m[K-Wreorder[m[K]
+     double [01;35m[K_prevAngle[m[K;
+            [01;35m[K^~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:95:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+     [01;35m[KClothoidFitter[m[K() : _totalLength(0), _prevAngle(0), _angleIntegral(0),
+     [01;35m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:117:12:[m[K [01;35m[Kwarning: [m[K‘[01m[KCornu::ClothoidFitter::_angleIntegral[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+     double [01;35m[K_angleIntegral[m[K;
+            [01;35m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:113:21:[m[K [01;35m[Kwarning: [m[K  ‘[01m[KEigen::Vector2d Cornu::ClothoidFitter::_centerOfMass[m[K’ [[01;35m[K-Wreorder[m[K]
+     Eigen::Vector2d [01;35m[K_centerOfMass[m[K;
+                     [01;35m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/include/cornucopia/PrimitiveFitUtils.h:95:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+     [01;35m[KClothoidFitter[m[K() : _totalLength(0), _prevAngle(0), _angleIntegral(0),
+     [01;35m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/Resampler.cpp:[m[K In constructor ‘[01m[KCornu::SampleSpacingFunction::SampleSpacingFunction(Cornu::PolylineConstPtr)[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/Resampler.cpp:337:21:[m[K [01;35m[Kwarning: [m[K‘[01m[KCornu::SampleSpacingFunction::_values[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+     VectorC<double> [01;35m[K_values[m[K;
+                     [01;35m[K^~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/Resampler.cpp:335:12:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kdouble Cornu::SampleSpacingFunction::_maxSlope[m[K’ [[01;35m[K-Wreorder[m[K]
+     double [01;35m[K_maxSlope[m[K;
+            [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/Resampler.cpp:168:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+     [01;35m[KSampleSpacingFunction[m[K(PolylineConstPtr poly)
+     [01;35m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[ 86%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/PathFinder.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/Preprocessing.cpp.o[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/ClothoidProjector.cpp.o[0m
+[ 96%] [32mBuilding CXX object CMakeFiles/cornucopia.dir/src/Combiner.cpp.o[0m
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/Combiner.cpp:[m[K In constructor ‘[01m[KCornu::MulticurveProblem::MulticurveProblem(const Cornu::Fitter&)[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/Combiner.cpp:570:33:[m[K [01;35m[Kwarning: [m[K‘[01m[KCornu::MulticurveProblem::_primitives[m[K’ will be initialized after [[01;35m[K-Wreorder[m[K]
+     const vector<FitPrimitive> &[01;35m[K_primitives[m[K;
+                                 [01;35m[K^~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/Combiner.cpp:373:9:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kint Cornu::MulticurveProblem::_iter[m[K’ [[01;35m[K-Wreorder[m[K]
+     int [01;35m[K_iter[m[K;
+         [01;35m[K^~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/Combiner.cpp:252:5:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K-Wreorder[m[K]
+     [01;35m[KMulticurveProblem[m[K(const Fitter &fitter)
+     [01;35m[K^~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/Combiner.cpp:[m[K In member function ‘[01m[Kvirtual void Cornu::DefaultCombiner::_run(const Cornu::Fitter&, Cornu::AlgorithmOutput<10>&)[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/cornucopia/src/Combiner.cpp:743:20:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[KparamOrig[m[K’ [[01;35m[K-Wunused-variable[m[K]
+             double [01;35m[KparamOrig[m[K = fitter.originalSketch()->idxToParam(i);
+                    [01;35m[K^~~~~~~~~[m[K
+[100%] [32m[1mLinking CXX shared library /home/kal1-4/anicar_ws/devel/.private/cornucopia/lib/libcornucopia.so[0m
+[100%] Built target cornucopia

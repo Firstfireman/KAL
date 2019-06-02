@@ -1,0 +1,4 @@
+Symlinking /home/kal1-4/anicar_ws/devel/share/iowkit/cmake/iowkitConfig-version.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/share/iowkit/cmake/iowkitConfig.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/lib/libiowkit.so
+Symlinking /home/kal1-4/anicar_ws/devel/lib/pkgconfig/iowkit.pc

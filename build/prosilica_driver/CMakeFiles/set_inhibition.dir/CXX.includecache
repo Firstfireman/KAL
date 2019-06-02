@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kal1-4/anicar_ws/src/prosilica_driver/include/prosilica/prosilica.h
+stdexcept
+-
+string
+-
+sstream
+-
+boost/function.hpp
+-
+boost/thread.hpp
+-
+prosilica_gige_sdk/PvApi.h
+-
+
+/home/kal1-4/anicar_ws/src/prosilica_driver/src/utilities/set_inhibition.cpp
+prosilica/prosilica.h
+/home/kal1-4/anicar_ws/src/prosilica_driver/src/utilities/prosilica/prosilica.h
+cstdio
+-
+
+/home/kal1-4/anicar_ws/src/prosilica_gige_sdk/include/prosilica_gige_sdk/PvApi.h
+

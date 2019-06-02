@@ -1,0 +1,4 @@
+Symlinking /home/kal1-4/anicar_ws/devel/share/mrt_cv_bridge_ros/cmake/mrt_cv_bridge_rosConfig-version.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/share/mrt_cv_bridge_ros/cmake/mrt_cv_bridge_rosConfig.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/lib/libmrt_cv_bridge_ros.so
+Symlinking /home/kal1-4/anicar_ws/devel/lib/pkgconfig/mrt_cv_bridge_ros.pc

@@ -1,0 +1,8 @@
+prefix=/home/kal1-4/anicar_ws/install
+
+Name: stargazer_ros_tool
+Description: Description of stargazer_ros_tool
+Version: 0.0.0
+Cflags: -I/home/kal1-4/anicar_ws/install/include
+Libs: -L/home/kal1-4/anicar_ws/install/lib 
+Requires: message_runtime std_msgs

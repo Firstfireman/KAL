@@ -1,0 +1,4 @@
+Symlinking /home/kal1-4/anicar_ws/devel/share/bbf_geometry/cmake/bbf_geometryConfig-version.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/share/bbf_geometry/cmake/bbf_geometryConfig.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/lib/libbbf_geometry.so
+Symlinking /home/kal1-4/anicar_ws/devel/lib/pkgconfig/bbf_geometry.pc

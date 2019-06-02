@@ -1,0 +1,8 @@
+prefix=/home/kal1-4/anicar_ws/install
+
+Name: rosinterface_handler
+Description: Description of rosinterface_handler
+Version: 0.2.1
+Cflags: -I/home/kal1-4/anicar_ws/install/include
+Libs: -L/home/kal1-4/anicar_ws/install/lib 
+Requires: catkin

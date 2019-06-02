@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kal1-4/anicar_ws/src/gnss_coordinate_transform/include/gnss_coordinate_transform/local_geographic_cs.hpp
+assert.h
+-
+exception
+-
+limits
+-
+utility
+-
+GeographicLib/UTMUPS.hpp
+-
+
+/home/kal1-4/anicar_ws/src/gnss_coordinate_transform/python_api/python.cpp
+boost/python.hpp
+-
+boost/python/suite/indexing/vector_indexing_suite.hpp
+-
+local_geographic_cs.hpp
+/home/kal1-4/anicar_ws/src/gnss_coordinate_transform/python_api/local_geographic_cs.hpp
+

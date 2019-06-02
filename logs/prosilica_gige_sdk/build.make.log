@@ -1,0 +1,3 @@
+[35m[1mScanning dependencies of target PvAPI[0m
+[100%] [32m[1mLinking CXX shared library /home/kal1-4/anicar_ws/devel/.private/prosilica_gige_sdk/lib/libPvAPI.so[0m
+[100%] Built target PvAPI

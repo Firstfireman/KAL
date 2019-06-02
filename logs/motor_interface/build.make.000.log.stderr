@@ -1,0 +1,19 @@
+[01m[K/home/kal1-4/anicar_ws/src/motor_interface/src/EPOS.cpp:[m[K In constructor ‘[01m[Kmotor_interface::EPOS::EPOS(const char*)[m[K’:
+[01m[K/home/kal1-4/anicar_ws/src/motor_interface/src/EPOS.cpp:232:17:[m[K [01;35m[Kwarning: [m[Kthis statement may fall through [[01;35m[K-Wimplicit-fallthrough=[m[K]
+           [01;35m[Kusleep(1000000)[m[K;
+           [01;35m[K~~~~~~^~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/motor_interface/src/EPOS.cpp:233:9:[m[K [01;36m[Knote: [m[Khere
+         [01;36m[Kcase[m[K fault:
+         [01;36m[K^~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/motor_interface/src/EPOS.cpp:235:17:[m[K [01;35m[Kwarning: [m[Kthis statement may fall through [[01;35m[K-Wimplicit-fallthrough=[m[K]
+           [01;35m[Kusleep(1000000)[m[K;
+           [01;35m[K~~~~~~^~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/motor_interface/src/EPOS.cpp:236:9:[m[K [01;36m[Knote: [m[Khere
+         [01;36m[Kdefault[m[K:
+         [01;36m[K^~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/motor_interface/src/EPOS.cpp:240:17:[m[K [01;35m[Kwarning: [m[Kthis statement may fall through [[01;35m[K-Wimplicit-fallthrough=[m[K]
+           [01;35m[Kusleep(1000000)[m[K;
+           [01;35m[K~~~~~~^~~~~~~~~[m[K
+[01m[K/home/kal1-4/anicar_ws/src/motor_interface/src/EPOS.cpp:241:9:[m[K [01;36m[Knote: [m[Khere
+         [01;36m[Kcase[m[K quickStopActive:
+         [01;36m[K^~~~[m[K

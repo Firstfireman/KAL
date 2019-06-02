@@ -1,0 +1,8 @@
+prefix=/home/kal1-4/anicar_ws/devel/.private/cornucopia
+
+Name: cornucopia
+Description: Description of cornucopia
+Version: 0.0.0
+Cflags: -I/home/kal1-4/anicar_ws/src/cornucopia/include -I/usr/include/eigen3
+Libs: -L/home/kal1-4/anicar_ws/devel/.private/cornucopia/lib -lcornucopia
+Requires: 

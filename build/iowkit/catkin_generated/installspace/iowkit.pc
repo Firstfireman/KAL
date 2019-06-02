@@ -1,0 +1,8 @@
+prefix=/home/kal1-4/anicar_ws/install
+
+Name: iowkit
+Description: Description of iowkit
+Version: 0.0.0
+Cflags: -I/home/kal1-4/anicar_ws/install/include
+Libs: -L/home/kal1-4/anicar_ws/install/lib -liowkit
+Requires: mrt_cmake_modules

@@ -1,0 +1,36 @@
+In file included from [01m[K/usr/include/eigen3/Eigen/SparseLU:26:0[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Sparse:29[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Eigen:2[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/path_generator_ros_tool/src/path_generator/path_generator.hpp:7[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/path_generator_ros_tool/src/path_generator/path_generator.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/SparseLU/SparseLU_gemm_kernel.h:[m[K In function ‘[01m[Kvoid Eigen::internal::sparselu_gemm(Eigen::Index, Eigen::Index, Eigen::Index, const Scalar*, Eigen::Index, const Scalar*, Eigen::Index, Scalar*, Eigen::Index)[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/SparseLU/SparseLU_gemm_kernel.h:78:9:[m[K [01;35m[Kwarning: [m[Kthis ‘[01m[Kif[m[K’ clause does not guard... [[01;35m[K-Wmisleading-indentation[m[K]
+         [01;35m[Kif[m[K(RK==4) b30 = pset1<Packet>(Bc0[3]);
+         [01;35m[K^~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/SparseLU/SparseLU_gemm_kernel.h:79:19:[m[K [01;36m[Knote: [m[K...this statement, but the latter is misleadingly indented as if it were guarded by the ‘[01m[Kif[m[K’
+                   [01;36m[Kb01[m[K = pset1<Packet>(Bc1[0]);
+                   [01;36m[K^~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/SparseLU:26:0[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Sparse:29[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Eigen:2[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/path_generator_ros_tool/src/path_generator/path_generator.hpp:7[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/path_generator_ros_tool/src/path_generator/path_generator_nodelet.cpp:5[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/SparseLU/SparseLU_gemm_kernel.h:[m[K In function ‘[01m[Kvoid Eigen::internal::sparselu_gemm(Eigen::Index, Eigen::Index, Eigen::Index, const Scalar*, Eigen::Index, const Scalar*, Eigen::Index, Scalar*, Eigen::Index)[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/SparseLU/SparseLU_gemm_kernel.h:78:9:[m[K [01;35m[Kwarning: [m[Kthis ‘[01m[Kif[m[K’ clause does not guard... [[01;35m[K-Wmisleading-indentation[m[K]
+         [01;35m[Kif[m[K(RK==4) b30 = pset1<Packet>(Bc0[3]);
+         [01;35m[K^~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/SparseLU/SparseLU_gemm_kernel.h:79:19:[m[K [01;36m[Knote: [m[K...this statement, but the latter is misleadingly indented as if it were guarded by the ‘[01m[Kif[m[K’
+                   [01;36m[Kb01[m[K = pset1<Packet>(Bc1[0]);
+                   [01;36m[K^~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/SparseLU:26:0[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Sparse:29[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Eigen:2[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/path_generator_ros_tool/src/path_generator/path_generator.hpp:7[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/path_generator_ros_tool/src/path_generator/path_generator_node.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/SparseLU/SparseLU_gemm_kernel.h:[m[K In function ‘[01m[Kvoid Eigen::internal::sparselu_gemm(Eigen::Index, Eigen::Index, Eigen::Index, const Scalar*, Eigen::Index, const Scalar*, Eigen::Index, Scalar*, Eigen::Index)[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/SparseLU/SparseLU_gemm_kernel.h:78:9:[m[K [01;35m[Kwarning: [m[Kthis ‘[01m[Kif[m[K’ clause does not guard... [[01;35m[K-Wmisleading-indentation[m[K]
+         [01;35m[Kif[m[K(RK==4) b30 = pset1<Packet>(Bc0[3]);
+         [01;35m[K^~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/SparseLU/SparseLU_gemm_kernel.h:79:19:[m[K [01;36m[Knote: [m[K...this statement, but the latter is misleadingly indented as if it were guarded by the ‘[01m[Kif[m[K’
+                   [01;36m[Kb01[m[K = pset1<Packet>(Bc1[0]);
+                   [01;36m[K^~~[m[K

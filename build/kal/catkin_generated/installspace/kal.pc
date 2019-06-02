@@ -1,0 +1,8 @@
+prefix=/home/kal1-4/anicar_ws/install
+
+Name: kal
+Description: Description of kal
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/kal1-4/anicar_ws/install/lib 
+Requires: 

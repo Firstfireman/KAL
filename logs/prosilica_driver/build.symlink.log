@@ -1,0 +1,17 @@
+Symlinking /home/kal1-4/anicar_ws/devel/share/prosilica_driver/docs/ProsilicaCameraConfig.dox
+Symlinking /home/kal1-4/anicar_ws/devel/share/prosilica_driver/docs/ProsilicaCameraConfig.wikidoc
+Symlinking /home/kal1-4/anicar_ws/devel/share/prosilica_driver/docs/ProsilicaCameraConfig-usage.dox
+Symlinking /home/kal1-4/anicar_ws/devel/share/prosilica_driver/cmake/prosilica_driverConfig.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/share/prosilica_driver/cmake/prosilica_driverConfig-version.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/include/prosilica_driver/ProsilicaCameraConfig.h
+Symlinking /home/kal1-4/anicar_ws/devel/lib/libprosilica_nodelet.so
+Symlinking /home/kal1-4/anicar_ws/devel/lib/libprosilica.so
+Symlinking /home/kal1-4/anicar_ws/devel/lib/pkgconfig/prosilica_driver.pc
+Symlinking /home/kal1-4/anicar_ws/devel/lib/python2.7/dist-packages/prosilica_driver/__init__.py
+Symlinking /home/kal1-4/anicar_ws/devel/lib/python2.7/dist-packages/prosilica_driver/cfg/ProsilicaCameraConfig.py
+Symlinking /home/kal1-4/anicar_ws/devel/lib/python2.7/dist-packages/prosilica_driver/cfg/__init__.py
+Symlinking /home/kal1-4/anicar_ws/devel/lib/prosilica_driver/write_memory
+Symlinking /home/kal1-4/anicar_ws/devel/lib/prosilica_driver/prosilica_node
+Symlinking /home/kal1-4/anicar_ws/devel/lib/prosilica_driver/set_inhibition
+Symlinking /home/kal1-4/anicar_ws/devel/lib/prosilica_driver/set_ip
+Symlinking /home/kal1-4/anicar_ws/devel/lib/prosilica_driver/read_memory

@@ -1,0 +1,4 @@
+Symlinking /home/kal1-4/anicar_ws/devel/share/osm/cmake/osmConfig-version.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/share/osm/cmake/osmConfig.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/lib/libosm.so
+Symlinking /home/kal1-4/anicar_ws/devel/lib/pkgconfig/osm.pc

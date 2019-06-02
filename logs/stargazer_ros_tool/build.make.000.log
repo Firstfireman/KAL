@@ -1,0 +1,1153 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target _stargazer_ros_tool_generate_messages_check_deps_LandmarkArray[0m
+[35m[1mScanning dependencies of target stargazer_ros_tool_gencfg[0m
+[  1%] Built target std_msgs_generate_messages_eus
+[  1%] [34m[1mGenerating dynamic reconfigure files from cfg/LandmarkFinderInterface.cfg: /home/kal1-4/anicar_ws/devel/.private/stargazer_ros_tool/include/stargazer_ros_tool/LandmarkFinderInterfaceConfig.h /home/kal1-4/anicar_ws/devel/.private/stargazer_ros_tool/lib/python2.7/dist-packages/stargazer_ros_tool/cfg/LandmarkFinderInterfaceConfig.py[0m
+[  3%] [34m[1mGenerating dynamic reconfigure files from cfg/LandmarkLocalizerInterface.cfg: /home/kal1-4/anicar_ws/devel/.private/stargazer_ros_tool/include/stargazer_ros_tool/LandmarkLocalizerInterfaceConfig.h /home/kal1-4/anicar_ws/devel/.private/stargazer_ros_tool/lib/python2.7/dist-packages/stargazer_ros_tool/cfg/LandmarkLocalizerInterfaceConfig.py[0m
+[  3%] Built target _stargazer_ros_tool_generate_messages_check_deps_LandmarkArray
+[35m[1mScanning dependencies of target _stargazer_ros_tool_generate_messages_check_deps_Landmark[0m
+[  3%] Built target _stargazer_ros_tool_generate_messages_check_deps_Landmark
+[35m[1mScanning dependencies of target _stargazer_ros_tool_generate_messages_check_deps_LandmarkPoint[0m
+Generating reconfiguration files for LandmarkLocalizer in stargazer_ros_tool
+Generating reconfiguration files for LandmarkFinder in stargazer_ros_tool
+Wrote header file in /home/kal1-4/anicar_ws/devel/.private/stargazer_ros_tool/include/stargazer_ros_tool/LandmarkLocalizerConfig.h
+Wrote header file in /home/kal1-4/anicar_ws/devel/.private/stargazer_ros_tool/include/stargazer_ros_tool/LandmarkFinderConfig.h
+[  3%] Built target _stargazer_ros_tool_generate_messages_check_deps_LandmarkPoint
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  3%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  3%] Built target std_msgs_generate_messages_cpp
+[  3%] Built target stargazer_ros_tool_gencfg
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  3%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  3%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  3%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[  3%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  3%] Built target dynamic_reconfigure_generate_messages_cpp
+[  3%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target topic_tools_generate_messages_cpp[0m
+[  3%] Built target topic_tools_generate_messages_cpp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  3%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  3%] Built target geometry_msgs_generate_messages_py
+[  3%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  3%] Built target sensor_msgs_generate_messages_nodejs
+[  3%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  3%] Built target actionlib_generate_messages_cpp
+[  3%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[35m[1mScanning dependencies of target bond_generate_messages_lisp[0m
+[  3%] Built target dynamic_reconfigure_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  3%] Built target sensor_msgs_generate_messages_eus
+[  3%] Built target bond_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_py[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_py[0m
+[  3%] Built target sensor_msgs_generate_messages_py
+[  3%] Built target nodelet_generate_messages_py
+[  3%] Built target topic_tools_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[  3%] Built target actionlib_msgs_generate_messages_nodejs
+[  3%] Built target std_srvs_generate_messages_eus
+[  3%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target bond_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  3%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  3%] Built target bond_generate_messages_eus
+[  3%] Built target roscpp_generate_messages_nodejs
+[  3%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  3%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  3%] Built target rosgraph_msgs_generate_messages_eus
+[  3%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  3%] Built target rosgraph_msgs_generate_messages_nodejs
+[  3%] Built target std_srvs_generate_messages_cpp
+[  3%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[  3%] Built target sensor_msgs_generate_messages_cpp
+[  3%] Built target actionlib_msgs_generate_messages_cpp
+[  3%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_cpp[0m
+[  3%] Built target std_srvs_generate_messages_nodejs
+[  3%] Built target topic_tools_generate_messages_lisp
+[  3%] Built target nodelet_generate_messages_cpp
+[35m[1mScanning dependencies of target bond_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  3%] Built target bond_generate_messages_py
+[  3%] Built target geometry_msgs_generate_messages_cpp
+[  3%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target topic_tools_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_nodejs[0m
+[  3%] Built target std_srvs_generate_messages_py
+[  3%] Built target topic_tools_generate_messages_eus
+[  3%] Built target topic_tools_generate_messages_nodejs
+[35m[1mScanning dependencies of target nodelet_generate_messages_eus[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target bond_generate_messages_cpp[0m
+[  3%] Built target nodelet_generate_messages_eus
+[  3%] Built target nodelet_generate_messages_lisp
+[  3%] Built target nodelet_generate_messages_nodejs
+[  3%] Built target bond_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target bond_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  3%] Built target roscpp_generate_messages_eus
+[  3%] Built target bond_generate_messages_nodejs
+[  3%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  3%] Built target actionlib_msgs_generate_messages_eus
+[  3%] Built target tf2_msgs_generate_messages_cpp
+[  3%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  3%] Built target dynamic_reconfigure_gencfg
+[  3%] Built target tf2_msgs_generate_messages_lisp
+[  3%] Built target actionlib_generate_messages_py
+[  3%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  3%] Built target actionlib_msgs_generate_messages_lisp
+[  3%] Built target actionlib_generate_messages_eus
+[  3%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target stargazer_ros_tool_generate_messages_eus[0m
+[  3%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target stargazer_ros_tool_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target stargazer_ros_tool_generate_messages_cpp[0m
+[  5%] [34m[1mGenerating EusLisp code from stargazer_ros_tool/LandmarkPoint.msg[0m
+[35m[1mScanning dependencies of target stargazer_ros_tool_generate_messages_py[0m
+[  7%] [34m[1mGenerating Javascript code from stargazer_ros_tool/LandmarkPoint.msg[0m
+[  9%] [34m[1mGenerating C++ code from stargazer_ros_tool/LandmarkPoint.msg[0m
+[ 11%] [34m[1mGenerating Python from MSG stargazer_ros_tool/LandmarkPoint[0m
+[ 13%] [34m[1mGenerating Javascript code from stargazer_ros_tool/LandmarkArray.msg[0m
+[ 15%] [34m[1mGenerating Python from MSG stargazer_ros_tool/LandmarkArray[0m
+[ 17%] [34m[1mGenerating Javascript code from stargazer_ros_tool/Landmark.msg[0m
+[ 19%] [34m[1mGenerating EusLisp code from stargazer_ros_tool/LandmarkArray.msg[0m
+[ 21%] [34m[1mGenerating C++ code from stargazer_ros_tool/LandmarkArray.msg[0m
+[ 21%] Built target stargazer_ros_tool_generate_messages_nodejs
+[ 23%] [34m[1mGenerating C++ code from stargazer_ros_tool/Landmark.msg[0m
+[ 25%] [34m[1mGenerating Python from MSG stargazer_ros_tool/Landmark[0m
+[ 27%] [34m[1mGenerating EusLisp code from stargazer_ros_tool/Landmark.msg[0m
+[ 29%] [34m[1mGenerating EusLisp manifest code for stargazer_ros_tool[0m
+[ 31%] [34m[1mGenerating Python msg __init__.py for stargazer_ros_tool[0m
+[ 31%] Built target stargazer_ros_tool_generate_messages_cpp
+[35m[1mScanning dependencies of target stargazer_ros_tool_generate_messages_lisp[0m
+[ 33%] [34m[1mGenerating Lisp code from stargazer_ros_tool/LandmarkPoint.msg[0m
+[35m[1mScanning dependencies of target intrinsics_tool[0m
+[ 33%] Built target stargazer_ros_tool_generate_messages_py
+[ 35%] [32mBuilding CXX object src/intrinsics_tool/CMakeFiles/intrinsics_tool.dir/intrinsics_tool.cpp.o[0m
+[35m[1mScanning dependencies of target landmark_calibrator[0m
+[ 37%] [34m[1mGenerating Lisp code from stargazer_ros_tool/LandmarkArray.msg[0m
+[35m[1mScanning dependencies of target landmark_finder_nodelet[0m
+[ 39%] [34m[1mGenerating Lisp code from stargazer_ros_tool/Landmark.msg[0m
+[ 41%] [32mBuilding CXX object src/landmark_finder/CMakeFiles/landmark_finder_nodelet.dir/LandmarkFinderInterface.cpp.o[0m
+[ 41%] Built target stargazer_ros_tool_generate_messages_lisp
+[ 43%] [32mBuilding CXX object src/landmark_finder/CMakeFiles/landmark_finder_nodelet.dir/LandmarkFinderInterfaceParameters.cpp.o[0m
+[ 45%] [32mBuilding CXX object src/landmark_calibrator/CMakeFiles/landmark_calibrator.dir/LandmarkCalibratorInterface.cpp.o[0m
+[ 47%] [32mBuilding CXX object src/landmark_calibrator/CMakeFiles/landmark_calibrator.dir/LandmarkCalibratorInterfaceParameters.cpp.o[0m
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:316:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.cpp:5[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:60:39:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[K__m128 {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct is_arithmetic<__m128[01;35m[K>[m[K  { enum { value = true }; };
+                                       [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:61:40:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[K__m128i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct is_arithmetic<__m128i[01;35m[K>[m[K { enum { value = true }; };
+                                        [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:62:40:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[K__m128d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct is_arithmetic<__m128d[01;35m[K>[m[K { enum { value = true }; };
+                                        [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:160:43:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct unpacket_traits<Packet4f[01;35m[K>[m[K { typedef float  type; enum {size=4, alignment=Aligned16}; typedef Packet4f half; };
+                                           [01;35m[K^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:316:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.cpp:5[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:161:43:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct unpacket_traits<Packet2d[01;35m[K>[m[K { typedef double type; enum {size=2, alignment=Aligned16}; typedef Packet2d half; };
+                                           [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:162:43:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct unpacket_traits<Packet4i[01;35m[K>[m[K { typedef int    type; enum {size=4, alignment=Aligned16}; typedef Packet4i half; };
+                                           [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:468:37:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct protate_impl<offset, Packet4f[01;35m[K>[m[K
+                                     [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:476:37:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct protate_impl<offset, Packet4i[01;35m[K>[m[K
+                                     [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:484:37:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct protate_impl<offset, Packet2d[01;35m[K>[m[K
+                                     [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:755:35:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct palign_impl<Offset,Packet4f[01;35m[K>[m[K
+                                   [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:778:35:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct palign_impl<Offset,Packet4i[01;35m[K>[m[K
+                                   [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:801:35:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct palign_impl<Offset,Packet2d[01;35m[K>[m[K
+                                   [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:815:34:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ ptranspose(PacketBlock<Packet4f,4[01;35m[K>[m[K& kernel) {
+                                  [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:820:34:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ ptranspose(PacketBlock<Packet2d,2[01;35m[K>[m[K& kernel) {
+                                  [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:827:34:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ ptranspose(PacketBlock<Packet4i,4[01;35m[K>[m[K& kernel) {
+                                  [01;35m[K^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:318:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.cpp:5[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:232:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet4f, Packet2cf, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:241:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet2cf, Packet4f, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:433:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet2d, Packet1cd, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:442:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet1cd, Packet2d, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[ 49%] [32mBuilding CXX object src/landmark_finder/CMakeFiles/landmark_finder_nodelet.dir/landmark_finder_nodelet.cpp.o[0m
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.cpp:5[m[K:
+/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘[01m[Kstruct Eigen::internal::find_best_packet<float, 4>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:144:57:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:219:7:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Quaternion<float> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/RotationBase.h:34:56:[m[K   required from ‘[01m[Kclass Eigen::RotationBase<Eigen::Quaternion<float>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:35:7:[m[K   required from ‘[01m[Kclass Eigen::QuaternionBase<Eigen::Quaternion<float> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:227:7:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<float>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:22:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:44:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = Size==Dynamic || [01;35m[K(Size%unpacket_traits<PacketType>::size)[m[K==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+                                       [01;35m[K~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = [01;35m[KSize==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>[m[K::value>
+                      [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::unpacket_traits<__vector(4) float>::half {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.cpp:5[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:148:88:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type [01;35m[Ktype[m[K;
+                                                                                        [01;35m[K^~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:343:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.cpp:5[m[K:
+/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 0>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:288:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:527:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:457:8:[m[K   required from ‘[01m[Kstruct Eigen::internal::special_scalar_op_base<Eigen::Matrix<float, 4, 1>, float, float, Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 3>, false>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseBase.h:41:34:[m[K   required from ‘[01m[Kclass Eigen::DenseBase<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:48:34:[m[K   required from ‘[01m[Kclass Eigen::MatrixBase<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:91:7:[m[K   required from ‘[01m[Kclass Eigen::PlainObjectBase<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:178:7:[m[K   required from ‘[01m[Kclass Eigen::Matrix<float, 4, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:287:16:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<float>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:22:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:55:30:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+                      >::type [01;35m[KPacketReturnType[m[K;
+                              [01;35m[K^~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.cpp:5[m[K:
+/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘[01m[Kstruct Eigen::internal::find_best_packet<double, 4>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:144:57:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:219:7:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Quaternion<double> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/RotationBase.h:34:56:[m[K   required from ‘[01m[Kclass Eigen::RotationBase<Eigen::Quaternion<double>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:35:7:[m[K   required from ‘[01m[Kclass Eigen::QuaternionBase<Eigen::Quaternion<double> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:227:7:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<double>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:75:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:44:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = Size==Dynamic || [01;35m[K(Size%unpacket_traits<PacketType>::size)[m[K==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+                                       [01;35m[K~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = [01;35m[KSize==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>[m[K::value>
+                      [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::unpacket_traits<__vector(2) double>::half {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.cpp:5[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:148:88:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type [01;35m[Ktype[m[K;
+                                                                                        [01;35m[K^~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:343:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.cpp:5[m[K:
+/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 0>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:288:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:527:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:457:8:[m[K   required from ‘[01m[Kstruct Eigen::internal::special_scalar_op_base<Eigen::Matrix<double, 4, 1>, double, double, Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 3>, false>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseBase.h:41:34:[m[K   required from ‘[01m[Kclass Eigen::DenseBase<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:48:34:[m[K   required from ‘[01m[Kclass Eigen::MatrixBase<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:91:7:[m[K   required from ‘[01m[Kclass Eigen::PlainObjectBase<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:178:7:[m[K   required from ‘[01m[Kclass Eigen::Matrix<double, 4, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:287:16:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<double>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:75:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:55:30:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+                      >::type [01;35m[KPacketReturnType[m[K;
+                              [01;35m[K^~~~~~~~~~~~~~~~[m[K
+[ 50%] [32mBuilding CXX object src/landmark_calibrator/CMakeFiles/landmark_calibrator.dir/landmark_calibrator_node.cpp.o[0m
+[ 50%] Built target stargazer_ros_tool_generate_messages_eus
+[35m[1mScanning dependencies of target landmark_finder[0m
+[ 52%] [32mBuilding CXX object src/landmark_finder/CMakeFiles/landmark_finder.dir/LandmarkFinderInterface.cpp.o[0m
+[ 54%] [32m[1mLinking CXX executable /home/kal1-4/anicar_ws/devel/.private/stargazer_ros_tool/lib/stargazer_ros_tool/intrinsics_tool[0m
+[ 54%] Built target intrinsics_tool
+[35m[1mScanning dependencies of target landmark_localizer_nodelet[0m
+[ 56%] [32mBuilding CXX object src/landmark_localizer/CMakeFiles/landmark_localizer_nodelet.dir/LandmarkLocalizerInterface.cpp.o[0m
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:316:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/landmark_calibrator_node.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:60:39:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[K__m128 {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct is_arithmetic<__m128[01;35m[K>[m[K  { enum { value = true }; };
+                                       [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:61:40:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[K__m128i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct is_arithmetic<__m128i[01;35m[K>[m[K { enum { value = true }; };
+                                        [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:62:40:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[K__m128d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct is_arithmetic<__m128d[01;35m[K>[m[K { enum { value = true }; };
+                                        [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:160:43:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct unpacket_traits<Packet4f[01;35m[K>[m[K { typedef float  type; enum {size=4, alignment=Aligned16}; typedef Packet4f half; };
+                                           [01;35m[K^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:316:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/landmark_calibrator_node.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:161:43:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct unpacket_traits<Packet2d[01;35m[K>[m[K { typedef double type; enum {size=2, alignment=Aligned16}; typedef Packet2d half; };
+                                           [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:162:43:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct unpacket_traits<Packet4i[01;35m[K>[m[K { typedef int    type; enum {size=4, alignment=Aligned16}; typedef Packet4i half; };
+                                           [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:468:37:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct protate_impl<offset, Packet4f[01;35m[K>[m[K
+                                     [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:476:37:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct protate_impl<offset, Packet4i[01;35m[K>[m[K
+                                     [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:484:37:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct protate_impl<offset, Packet2d[01;35m[K>[m[K
+                                     [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:755:35:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct palign_impl<Offset,Packet4f[01;35m[K>[m[K
+                                   [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:778:35:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct palign_impl<Offset,Packet4i[01;35m[K>[m[K
+                                   [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:801:35:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct palign_impl<Offset,Packet2d[01;35m[K>[m[K
+                                   [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:815:34:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ ptranspose(PacketBlock<Packet4f,4[01;35m[K>[m[K& kernel) {
+                                  [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:820:34:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ ptranspose(PacketBlock<Packet2d,2[01;35m[K>[m[K& kernel) {
+                                  [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:827:34:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ ptranspose(PacketBlock<Packet4i,4[01;35m[K>[m[K& kernel) {
+                                  [01;35m[K^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:318:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/landmark_calibrator_node.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:232:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet4f, Packet2cf, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:241:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet2cf, Packet4f, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:433:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet2d, Packet1cd, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:442:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet1cd, Packet2d, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/landmark_calibrator_node.cpp:1[m[K:
+/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘[01m[Kstruct Eigen::internal::find_best_packet<float, 4>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:144:57:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:219:7:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Quaternion<float> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/RotationBase.h:34:56:[m[K   required from ‘[01m[Kclass Eigen::RotationBase<Eigen::Quaternion<float>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:35:7:[m[K   required from ‘[01m[Kclass Eigen::QuaternionBase<Eigen::Quaternion<float> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:227:7:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<float>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:22:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:44:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = Size==Dynamic || [01;35m[K(Size%unpacket_traits<PacketType>::size)[m[K==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+                                       [01;35m[K~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = [01;35m[KSize==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>[m[K::value>
+                      [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::unpacket_traits<__vector(4) float>::half {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/landmark_calibrator_node.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:148:88:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type [01;35m[Ktype[m[K;
+                                                                                        [01;35m[K^~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:343:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/landmark_calibrator_node.cpp:1[m[K:
+/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 0>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:288:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:527:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:457:8:[m[K   required from ‘[01m[Kstruct Eigen::internal::special_scalar_op_base<Eigen::Matrix<float, 4, 1>, float, float, Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 3>, false>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseBase.h:41:34:[m[K   required from ‘[01m[Kclass Eigen::DenseBase<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:48:34:[m[K   required from ‘[01m[Kclass Eigen::MatrixBase<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:91:7:[m[K   required from ‘[01m[Kclass Eigen::PlainObjectBase<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:178:7:[m[K   required from ‘[01m[Kclass Eigen::Matrix<float, 4, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:287:16:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<float>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:22:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:55:30:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+                      >::type [01;35m[KPacketReturnType[m[K;
+                              [01;35m[K^~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/landmark_calibrator_node.cpp:1[m[K:
+/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘[01m[Kstruct Eigen::internal::find_best_packet<double, 4>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:144:57:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:219:7:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Quaternion<double> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/RotationBase.h:34:56:[m[K   required from ‘[01m[Kclass Eigen::RotationBase<Eigen::Quaternion<double>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:35:7:[m[K   required from ‘[01m[Kclass Eigen::QuaternionBase<Eigen::Quaternion<double> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:227:7:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<double>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:75:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:44:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = Size==Dynamic || [01;35m[K(Size%unpacket_traits<PacketType>::size)[m[K==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+                                       [01;35m[K~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = [01;35m[KSize==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>[m[K::value>
+                      [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::unpacket_traits<__vector(2) double>::half {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/landmark_calibrator_node.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:148:88:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type [01;35m[Ktype[m[K;
+                                                                                        [01;35m[K^~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:343:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/LandmarkCalibrator.h:26[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/LandmarkCalibratorInterface.h:11[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_calibrator/landmark_calibrator_node.cpp:1[m[K:
+/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 0>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:288:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:527:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:457:8:[m[K   required from ‘[01m[Kstruct Eigen::internal::special_scalar_op_base<Eigen::Matrix<double, 4, 1>, double, double, Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 3>, false>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseBase.h:41:34:[m[K   required from ‘[01m[Kclass Eigen::DenseBase<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:48:34:[m[K   required from ‘[01m[Kclass Eigen::MatrixBase<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:91:7:[m[K   required from ‘[01m[Kclass Eigen::PlainObjectBase<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:178:7:[m[K   required from ‘[01m[Kclass Eigen::Matrix<double, 4, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:287:16:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<double>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:75:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:55:30:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+                      >::type [01;35m[KPacketReturnType[m[K;
+                              [01;35m[K^~~~~~~~~~~~~~~~[m[K
+[ 58%] [32mBuilding CXX object src/landmark_localizer/CMakeFiles/landmark_localizer_nodelet.dir/LandmarkLocalizerInterfaceParameters.cpp.o[0m
+[ 60%] [32mBuilding CXX object src/landmark_localizer/CMakeFiles/landmark_localizer_nodelet.dir/landmark_localizer_nodelet.cpp.o[0m
+[ 62%] [32mBuilding CXX object src/landmark_finder/CMakeFiles/landmark_finder.dir/LandmarkFinderInterfaceParameters.cpp.o[0m
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:316:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:60:39:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[K__m128 {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct is_arithmetic<__m128[01;35m[K>[m[K  { enum { value = true }; };
+                                       [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:61:40:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[K__m128i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct is_arithmetic<__m128i[01;35m[K>[m[K { enum { value = true }; };
+                                        [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:62:40:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[K__m128d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct is_arithmetic<__m128d[01;35m[K>[m[K { enum { value = true }; };
+                                        [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:160:43:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct unpacket_traits<Packet4f[01;35m[K>[m[K { typedef float  type; enum {size=4, alignment=Aligned16}; typedef Packet4f half; };
+                                           [01;35m[K^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:316:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:161:43:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct unpacket_traits<Packet2d[01;35m[K>[m[K { typedef double type; enum {size=2, alignment=Aligned16}; typedef Packet2d half; };
+                                           [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:162:43:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct unpacket_traits<Packet4i[01;35m[K>[m[K { typedef int    type; enum {size=4, alignment=Aligned16}; typedef Packet4i half; };
+                                           [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:468:37:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct protate_impl<offset, Packet4f[01;35m[K>[m[K
+                                     [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:476:37:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct protate_impl<offset, Packet4i[01;35m[K>[m[K
+                                     [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:484:37:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct protate_impl<offset, Packet2d[01;35m[K>[m[K
+                                     [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:755:35:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct palign_impl<Offset,Packet4f[01;35m[K>[m[K
+                                   [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:778:35:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct palign_impl<Offset,Packet4i[01;35m[K>[m[K
+                                   [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:801:35:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct palign_impl<Offset,Packet2d[01;35m[K>[m[K
+                                   [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:815:34:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ ptranspose(PacketBlock<Packet4f,4[01;35m[K>[m[K& kernel) {
+                                  [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:820:34:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ ptranspose(PacketBlock<Packet2d,2[01;35m[K>[m[K& kernel) {
+                                  [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:827:34:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ ptranspose(PacketBlock<Packet4i,4[01;35m[K>[m[K& kernel) {
+                                  [01;35m[K^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:318:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:232:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet4f, Packet2cf, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:241:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet2cf, Packet4f, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:433:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet2d, Packet1cd, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:442:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet1cd, Packet2d, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘[01m[Kstruct Eigen::internal::find_best_packet<float, 4>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:144:57:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:219:7:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Quaternion<float> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/RotationBase.h:34:56:[m[K   required from ‘[01m[Kclass Eigen::RotationBase<Eigen::Quaternion<float>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:35:7:[m[K   required from ‘[01m[Kclass Eigen::QuaternionBase<Eigen::Quaternion<float> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:227:7:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<float>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:22:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:44:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = Size==Dynamic || [01;35m[K(Size%unpacket_traits<PacketType>::size)[m[K==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+                                       [01;35m[K~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = [01;35m[KSize==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>[m[K::value>
+                      [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::unpacket_traits<__vector(4) float>::half {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:148:88:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type [01;35m[Ktype[m[K;
+                                                                                        [01;35m[K^~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:343:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 0>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:288:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:527:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:457:8:[m[K   required from ‘[01m[Kstruct Eigen::internal::special_scalar_op_base<Eigen::Matrix<float, 4, 1>, float, float, Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 3>, false>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseBase.h:41:34:[m[K   required from ‘[01m[Kclass Eigen::DenseBase<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:48:34:[m[K   required from ‘[01m[Kclass Eigen::MatrixBase<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:91:7:[m[K   required from ‘[01m[Kclass Eigen::PlainObjectBase<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:178:7:[m[K   required from ‘[01m[Kclass Eigen::Matrix<float, 4, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:287:16:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<float>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:22:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:55:30:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+                      >::type [01;35m[KPacketReturnType[m[K;
+                              [01;35m[K^~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘[01m[Kstruct Eigen::internal::find_best_packet<double, 4>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:144:57:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:219:7:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Quaternion<double> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/RotationBase.h:34:56:[m[K   required from ‘[01m[Kclass Eigen::RotationBase<Eigen::Quaternion<double>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:35:7:[m[K   required from ‘[01m[Kclass Eigen::QuaternionBase<Eigen::Quaternion<double> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:227:7:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<double>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:75:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:44:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = Size==Dynamic || [01;35m[K(Size%unpacket_traits<PacketType>::size)[m[K==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+                                       [01;35m[K~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = [01;35m[KSize==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>[m[K::value>
+                      [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::unpacket_traits<__vector(2) double>::half {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:148:88:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type [01;35m[Ktype[m[K;
+                                                                                        [01;35m[K^~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:343:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 0>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:288:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:527:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:457:8:[m[K   required from ‘[01m[Kstruct Eigen::internal::special_scalar_op_base<Eigen::Matrix<double, 4, 1>, double, double, Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 3>, false>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseBase.h:41:34:[m[K   required from ‘[01m[Kclass Eigen::DenseBase<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:48:34:[m[K   required from ‘[01m[Kclass Eigen::MatrixBase<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:91:7:[m[K   required from ‘[01m[Kclass Eigen::PlainObjectBase<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:178:7:[m[K   required from ‘[01m[Kclass Eigen::Matrix<double, 4, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:287:16:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<double>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:75:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:55:30:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+                      >::type [01;35m[KPacketReturnType[m[K;
+                              [01;35m[K^~~~~~~~~~~~~~~~[m[K
+[ 64%] [32m[1mLinking CXX shared library /home/kal1-4/anicar_ws/devel/.private/stargazer_ros_tool/lib/liblandmark_finder_nodelet.so[0m
+[ 66%] [32mBuilding CXX object src/landmark_finder/CMakeFiles/landmark_finder.dir/landmark_finder_node.cpp.o[0m
+[ 66%] Built target landmark_finder_nodelet
+[35m[1mScanning dependencies of target landmark_localizer[0m
+[ 68%] [32mBuilding CXX object src/landmark_localizer/CMakeFiles/landmark_localizer.dir/LandmarkLocalizerInterface.cpp.o[0m
+[ 70%] [32mBuilding CXX object src/landmark_localizer/CMakeFiles/landmark_localizer.dir/LandmarkLocalizerInterfaceParameters.cpp.o[0m
+[ 72%] [32mBuilding CXX object src/landmark_localizer/CMakeFiles/landmark_localizer.dir/landmark_localizer_node.cpp.o[0m
+[ 74%] [32m[1mLinking CXX executable /home/kal1-4/anicar_ws/devel/.private/stargazer_ros_tool/lib/stargazer_ros_tool/landmark_calibrator[0m
+[35m[1mScanning dependencies of target landmark_visualizer[0m
+[ 76%] [32mBuilding CXX object src/landmark_visualizer/CMakeFiles/landmark_visualizer.dir/LandmarkVisualizerParameters.cpp.o[0m
+[ 76%] Built target landmark_calibrator
+[35m[1mScanning dependencies of target pose_visualizer[0m
+[ 78%] [32mBuilding CXX object src/pose_visualizer/CMakeFiles/pose_visualizer.dir/PoseVisualizerParameters.cpp.o[0m
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:316:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:60:39:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[K__m128 {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct is_arithmetic<__m128[01;35m[K>[m[K  { enum { value = true }; };
+                                       [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:61:40:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[K__m128i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct is_arithmetic<__m128i[01;35m[K>[m[K { enum { value = true }; };
+                                        [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:62:40:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[K__m128d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct is_arithmetic<__m128d[01;35m[K>[m[K { enum { value = true }; };
+                                        [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:160:43:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct unpacket_traits<Packet4f[01;35m[K>[m[K { typedef float  type; enum {size=4, alignment=Aligned16}; typedef Packet4f half; };
+                                           [01;35m[K^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:316:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:161:43:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct unpacket_traits<Packet2d[01;35m[K>[m[K { typedef double type; enum {size=2, alignment=Aligned16}; typedef Packet2d half; };
+                                           [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:162:43:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct unpacket_traits<Packet4i[01;35m[K>[m[K { typedef int    type; enum {size=4, alignment=Aligned16}; typedef Packet4i half; };
+                                           [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:468:37:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct protate_impl<offset, Packet4f[01;35m[K>[m[K
+                                     [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:476:37:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct protate_impl<offset, Packet4i[01;35m[K>[m[K
+                                     [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:484:37:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct protate_impl<offset, Packet2d[01;35m[K>[m[K
+                                     [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:755:35:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct palign_impl<Offset,Packet4f[01;35m[K>[m[K
+                                   [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:778:35:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct palign_impl<Offset,Packet4i[01;35m[K>[m[K
+                                   [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:801:35:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct palign_impl<Offset,Packet2d[01;35m[K>[m[K
+                                   [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:815:34:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ ptranspose(PacketBlock<Packet4f,4[01;35m[K>[m[K& kernel) {
+                                  [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:820:34:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ ptranspose(PacketBlock<Packet2d,2[01;35m[K>[m[K& kernel) {
+                                  [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:827:34:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ ptranspose(PacketBlock<Packet4i,4[01;35m[K>[m[K& kernel) {
+                                  [01;35m[K^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:318:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:232:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet4f, Packet2cf, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:241:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet2cf, Packet4f, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:433:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet2d, Packet1cd, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:442:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet1cd, Packet2d, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[35m[1mScanning dependencies of target reprojection_visualizer[0m
+[ 80%] [32mBuilding CXX object src/reprojection_visualizer/CMakeFiles/reprojection_visualizer.dir/ReprojectionVisualizer.cpp.o[0m
+[ 82%] [32mBuilding CXX object src/reprojection_visualizer/CMakeFiles/reprojection_visualizer.dir/ReprojectionVisualizerParameters.cpp.o[0m
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘[01m[Kstruct Eigen::internal::find_best_packet<float, 4>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:144:57:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:219:7:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Quaternion<float> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/RotationBase.h:34:56:[m[K   required from ‘[01m[Kclass Eigen::RotationBase<Eigen::Quaternion<float>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:35:7:[m[K   required from ‘[01m[Kclass Eigen::QuaternionBase<Eigen::Quaternion<float> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:227:7:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<float>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:22:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:44:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = Size==Dynamic || [01;35m[K(Size%unpacket_traits<PacketType>::size)[m[K==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+                                       [01;35m[K~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = [01;35m[KSize==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>[m[K::value>
+                      [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::unpacket_traits<__vector(4) float>::half {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:148:88:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type [01;35m[Ktype[m[K;
+                                                                                        [01;35m[K^~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:343:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 0>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:288:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:527:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:457:8:[m[K   required from ‘[01m[Kstruct Eigen::internal::special_scalar_op_base<Eigen::Matrix<float, 4, 1>, float, float, Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 3>, false>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseBase.h:41:34:[m[K   required from ‘[01m[Kclass Eigen::DenseBase<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:48:34:[m[K   required from ‘[01m[Kclass Eigen::MatrixBase<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:91:7:[m[K   required from ‘[01m[Kclass Eigen::PlainObjectBase<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:178:7:[m[K   required from ‘[01m[Kclass Eigen::Matrix<float, 4, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:287:16:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<float>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:22:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:55:30:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+                      >::type [01;35m[KPacketReturnType[m[K;
+                              [01;35m[K^~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘[01m[Kstruct Eigen::internal::find_best_packet<double, 4>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:144:57:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:219:7:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Quaternion<double> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/RotationBase.h:34:56:[m[K   required from ‘[01m[Kclass Eigen::RotationBase<Eigen::Quaternion<double>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:35:7:[m[K   required from ‘[01m[Kclass Eigen::QuaternionBase<Eigen::Quaternion<double> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:227:7:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<double>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:75:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:44:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = Size==Dynamic || [01;35m[K(Size%unpacket_traits<PacketType>::size)[m[K==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+                                       [01;35m[K~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = [01;35m[KSize==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>[m[K::value>
+                      [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::unpacket_traits<__vector(2) double>::half {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:148:88:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type [01;35m[Ktype[m[K;
+                                                                                        [01;35m[K^~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:343:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/landmark_localizer/LandmarkLocalizerInterface.cpp:8[m[K:
+/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 0>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:288:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:527:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:457:8:[m[K   required from ‘[01m[Kstruct Eigen::internal::special_scalar_op_base<Eigen::Matrix<double, 4, 1>, double, double, Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 3>, false>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseBase.h:41:34:[m[K   required from ‘[01m[Kclass Eigen::DenseBase<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:48:34:[m[K   required from ‘[01m[Kclass Eigen::MatrixBase<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:91:7:[m[K   required from ‘[01m[Kclass Eigen::PlainObjectBase<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:178:7:[m[K   required from ‘[01m[Kclass Eigen::Matrix<double, 4, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:287:16:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<double>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:75:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:55:30:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+                      >::type [01;35m[KPacketReturnType[m[K;
+                              [01;35m[K^~~~~~~~~~~~~~~~[m[K
+[ 84%] [32m[1mLinking CXX executable /home/kal1-4/anicar_ws/devel/.private/stargazer_ros_tool/lib/stargazer_ros_tool/landmark_finder[0m
+[ 86%] [32mBuilding CXX object src/landmark_visualizer/CMakeFiles/landmark_visualizer.dir/landmark_visualizer.cpp.o[0m
+[ 88%] [32m[1mLinking CXX shared library /home/kal1-4/anicar_ws/devel/.private/stargazer_ros_tool/lib/liblandmark_localizer_nodelet.so[0m
+[ 90%] [32mBuilding CXX object src/pose_visualizer/CMakeFiles/pose_visualizer.dir/pose_visualizer.cpp.o[0m
+[ 90%] Built target landmark_finder
+[ 92%] [32mBuilding CXX object src/reprojection_visualizer/CMakeFiles/reprojection_visualizer.dir/reprojection_visualizer_node.cpp.o[0m
+[ 92%] Built target landmark_localizer_nodelet
+[35m[1mScanning dependencies of target stargazer_ros_tool_generate_messages[0m
+[ 92%] Built target stargazer_ros_tool_generate_messages
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:316:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/pose_visualizer/pose_visualizer.cpp:13[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:60:39:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[K__m128 {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct is_arithmetic<__m128[01;35m[K>[m[K  { enum { value = true }; };
+                                       [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:61:40:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[K__m128i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct is_arithmetic<__m128i[01;35m[K>[m[K { enum { value = true }; };
+                                        [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:62:40:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[K__m128d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct is_arithmetic<__m128d[01;35m[K>[m[K { enum { value = true }; };
+                                        [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:160:43:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct unpacket_traits<Packet4f[01;35m[K>[m[K { typedef float  type; enum {size=4, alignment=Aligned16}; typedef Packet4f half; };
+                                           [01;35m[K^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:316:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/pose_visualizer/pose_visualizer.cpp:13[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:161:43:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct unpacket_traits<Packet2d[01;35m[K>[m[K { typedef double type; enum {size=2, alignment=Aligned16}; typedef Packet2d half; };
+                                           [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:162:43:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct unpacket_traits<Packet4i[01;35m[K>[m[K { typedef int    type; enum {size=4, alignment=Aligned16}; typedef Packet4i half; };
+                                           [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:468:37:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct protate_impl<offset, Packet4f[01;35m[K>[m[K
+                                     [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:476:37:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct protate_impl<offset, Packet4i[01;35m[K>[m[K
+                                     [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:484:37:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct protate_impl<offset, Packet2d[01;35m[K>[m[K
+                                     [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:755:35:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct palign_impl<Offset,Packet4f[01;35m[K>[m[K
+                                   [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:778:35:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct palign_impl<Offset,Packet4i[01;35m[K>[m[K
+                                   [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:801:35:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ struct palign_impl<Offset,Packet2d[01;35m[K>[m[K
+                                   [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:815:34:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ ptranspose(PacketBlock<Packet4f,4[01;35m[K>[m[K& kernel) {
+                                  [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:820:34:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ ptranspose(PacketBlock<Packet2d,2[01;35m[K>[m[K& kernel) {
+                                  [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h:827:34:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4i {aka __vector(2) long long int}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ ptranspose(PacketBlock<Packet4i,4[01;35m[K>[m[K& kernel) {
+                                  [01;35m[K^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:318:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/pose_visualizer/pose_visualizer.cpp:13[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:232:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet4f, Packet2cf, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:241:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet4f {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet2cf, Packet4f, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:433:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet2d, Packet1cd, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/arch/SSE/Complex.h:442:63:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::Packet2d {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+ template<> struct conj_helper<Packet1cd, Packet2d, false,false[01;35m[K>[m[K
+                                                               [01;35m[K^[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/pose_visualizer/pose_visualizer.cpp:13[m[K:
+/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘[01m[Kstruct Eigen::internal::find_best_packet<float, 4>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:144:57:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:219:7:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Quaternion<float> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/RotationBase.h:34:56:[m[K   required from ‘[01m[Kclass Eigen::RotationBase<Eigen::Quaternion<float>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:35:7:[m[K   required from ‘[01m[Kclass Eigen::QuaternionBase<Eigen::Quaternion<float> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:227:7:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<float>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:22:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:44:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = Size==Dynamic || [01;35m[K(Size%unpacket_traits<PacketType>::size)[m[K==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+                                       [01;35m[K~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = [01;35m[KSize==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>[m[K::value>
+                      [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::unpacket_traits<__vector(4) float>::half {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/pose_visualizer/pose_visualizer.cpp:13[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:148:88:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type [01;35m[Ktype[m[K;
+                                                                                        [01;35m[K^~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:343:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/pose_visualizer/pose_visualizer.cpp:13[m[K:
+/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 0>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:288:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:527:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:457:8:[m[K   required from ‘[01m[Kstruct Eigen::internal::special_scalar_op_base<Eigen::Matrix<float, 4, 1>, float, float, Eigen::DenseCoeffsBase<Eigen::Matrix<float, 4, 1>, 3>, false>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseBase.h:41:34:[m[K   required from ‘[01m[Kclass Eigen::DenseBase<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:48:34:[m[K   required from ‘[01m[Kclass Eigen::MatrixBase<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:91:7:[m[K   required from ‘[01m[Kclass Eigen::PlainObjectBase<Eigen::Matrix<float, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:178:7:[m[K   required from ‘[01m[Kclass Eigen::Matrix<float, 4, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:287:16:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<float>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:22:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:55:30:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<float>::type {aka __vector(4) float}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+                      >::type [01;35m[KPacketReturnType[m[K;
+                              [01;35m[K^~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/pose_visualizer/pose_visualizer.cpp:13[m[K:
+/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h: In instantiation of ‘[01m[Kstruct Eigen::internal::find_best_packet<double, 4>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:144:57:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:219:7:[m[K   required from ‘[01m[Kstruct Eigen::internal::traits<Eigen::Quaternion<double> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/RotationBase.h:34:56:[m[K   required from ‘[01m[Kclass Eigen::RotationBase<Eigen::Quaternion<double>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:35:7:[m[K   required from ‘[01m[Kclass Eigen::QuaternionBase<Eigen::Quaternion<double> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:227:7:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<double>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:75:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:44:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = Size==Dynamic || [01;35m[K(Size%unpacket_traits<PacketType>::size)[m[K==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>::value>
+                                       [01;35m[K~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+          bool Stop = [01;35m[KSize==Dynamic || (Size%unpacket_traits<PacketType>::size)==0 || is_same<PacketType,typename unpacket_traits<PacketType>::half>[m[K::value>
+                      [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:130:83:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::unpacket_traits<__vector(2) double>::half {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:298:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/pose_visualizer/pose_visualizer.cpp:13[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:148:88:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+   typedef typename find_best_packet_helper<Size,typename packet_traits<T>::type>::type [01;35m[Ktype[m[K;
+                                                                                        [01;35m[K^~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:343:0[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/jet.h:165[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/internal/autodiff.h:145[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/autodiff_cost_function.h:132[m[K,
+                 from [01m[K/opt/mrtsoftware/release/include/ceres/ceres.h:37[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer/include/stargazer/CeresLocalizer.h:22[m[K,
+                 from [01m[K/home/kal1-4/anicar_ws/src/stargazer_ros_tool/src/pose_visualizer/pose_visualizer.cpp:13[m[K:
+/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h: In instantiation of ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 0>[m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:288:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:527:7:[m[K   required from ‘[01m[Kclass Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 3>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:457:8:[m[K   required from ‘[01m[Kstruct Eigen::internal::special_scalar_op_base<Eigen::Matrix<double, 4, 1>, double, double, Eigen::DenseCoeffsBase<Eigen::Matrix<double, 4, 1>, 3>, false>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseBase.h:41:34:[m[K   required from ‘[01m[Kclass Eigen::DenseBase<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:48:34:[m[K   required from ‘[01m[Kclass Eigen::MatrixBase<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:91:7:[m[K   required from ‘[01m[Kclass Eigen::PlainObjectBase<Eigen::Matrix<double, 4, 1> >[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:178:7:[m[K   required from ‘[01m[Kclass Eigen::Matrix<double, 4, 1>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:287:16:[m[K   required from ‘[01m[Kclass Eigen::Quaternion<double>[m[K’
+[01m[K/usr/include/eigen3/Eigen/src/Geometry/arch/Geometry_SSE.h:75:3:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:55:30:[m[K [01;35m[Kwarning: [m[Kignoring attributes on template argument ‘[01m[KEigen::internal::packet_traits<double>::type {aka __vector(2) double}[m[K’ [[01;35m[K-Wignored-attributes[m[K]
+                      >::type [01;35m[KPacketReturnType[m[K;
+                              [01;35m[K^~~~~~~~~~~~~~~~[m[K
+[ 94%] [32m[1mLinking CXX executable /home/kal1-4/anicar_ws/devel/.private/stargazer_ros_tool/lib/stargazer_ros_tool/landmark_localizer[0m
+[ 94%] Built target landmark_localizer
+[ 96%] [32m[1mLinking CXX executable /home/kal1-4/anicar_ws/devel/.private/stargazer_ros_tool/lib/stargazer_ros_tool/landmark_visualizer[0m
+[ 96%] Built target landmark_visualizer
+[ 98%] [32m[1mLinking CXX executable /home/kal1-4/anicar_ws/devel/.private/stargazer_ros_tool/lib/stargazer_ros_tool/pose_visualizer[0m
+[ 98%] Built target pose_visualizer
+[100%] [32m[1mLinking CXX executable /home/kal1-4/anicar_ws/devel/.private/stargazer_ros_tool/lib/stargazer_ros_tool/reprojection_visualizer[0m
+[100%] Built target reprojection_visualizer

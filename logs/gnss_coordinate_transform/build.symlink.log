@@ -1,0 +1,5 @@
+Symlinking /home/kal1-4/anicar_ws/devel/share/gnss_coordinate_transform/cmake/gnss_coordinate_transformConfig.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/share/gnss_coordinate_transform/cmake/gnss_coordinate_transformConfig-version.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/lib/pkgconfig/gnss_coordinate_transform.pc
+Symlinking /home/kal1-4/anicar_ws/devel/lib/python2.7/dist-packages/gnss_coordinate_transform/python.so
+Symlinking /home/kal1-4/anicar_ws/devel/lib/python2.7/dist-packages/gnss_coordinate_transform/__init__.py

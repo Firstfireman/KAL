@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target gtest[0m
+[ 25%] [32mBuilding CXX object gtest/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[ 50%] [32m[1mLinking CXX shared library libgtest.so[0m
+[ 50%] Built target gtest
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[ 50%] Built target _catkin_empty_exported_target
+[35m[1mScanning dependencies of target gnss_coordinate_transform-gnss_coordinate_transform-python-pyapi[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/gnss_coordinate_transform-gnss_coordinate_transform-python-pyapi.dir/python_api/python.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library python.so[0m
+[34m[1mCopying library files to python directory[0m
+'/home/kal1-4/anicar_ws/build/gnss_coordinate_transform/python.so' -> '/home/kal1-4/anicar_ws/devel/.private/gnss_coordinate_transform/lib/python2.7/dist-packages/gnss_coordinate_transform/python.so'
+[100%] Built target gnss_coordinate_transform-gnss_coordinate_transform-python-pyapi

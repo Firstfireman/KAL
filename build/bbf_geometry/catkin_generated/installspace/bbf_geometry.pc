@@ -1,0 +1,8 @@
+prefix=/home/kal1-4/anicar_ws/install
+
+Name: bbf_geometry
+Description: Description of bbf_geometry
+Version: 0.0.0
+Cflags: -I/home/kal1-4/anicar_ws/install/include -I/usr/include/eigen3
+Libs: -L/home/kal1-4/anicar_ws/install/lib -lbbf_geometry
+Requires: bbf_commons

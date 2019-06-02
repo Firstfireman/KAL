@@ -1,0 +1,8 @@
+prefix=/home/kal1-4/anicar_ws/install
+
+Name: osm
+Description: Description of osm
+Version: 1.0.0
+Cflags: -I/home/kal1-4/anicar_ws/install/include -I/usr/include
+Libs: -L/home/kal1-4/anicar_ws/install/lib -losm /usr/lib/x86_64-linux-gnu/libpugixml.so
+Requires: bbf_geometry

@@ -1,0 +1,4 @@
+Symlinking /home/kal1-4/anicar_ws/devel/share/prosilica_gige_sdk/cmake/prosilica_gige_sdkConfig.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/share/prosilica_gige_sdk/cmake/prosilica_gige_sdkConfig-version.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/lib/libPvAPI.so
+Symlinking /home/kal1-4/anicar_ws/devel/lib/pkgconfig/prosilica_gige_sdk.pc

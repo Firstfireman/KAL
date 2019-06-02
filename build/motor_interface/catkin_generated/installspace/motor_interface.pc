@@ -1,0 +1,8 @@
+prefix=/home/kal1-4/anicar_ws/install
+
+Name: motor_interface
+Description: Description of motor_interface
+Version: 0.0.0
+Cflags: -I/home/kal1-4/anicar_ws/install/include
+Libs: -L/home/kal1-4/anicar_ws/install/lib -lmotor_interface
+Requires: iowkit

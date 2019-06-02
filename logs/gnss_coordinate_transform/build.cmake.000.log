@@ -1,0 +1,59 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The C compiler identification is GNU 7.2.0
+[36m--[0m The CXX compiler identification is GNU 7.2.0
+[36m--[0m Check for working C compiler: /usr/bin/cc
+[36m--[0m Check for working C compiler: /usr/bin/cc -- works
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+[36m--[0m Detecting C compile features
+[36m--[0m Detecting C compile features - done
+[36m--[0m Check for working CXX compiler: /usr/bin/c++
+[36m--[0m Check for working CXX compiler: /usr/bin/c++ -- works
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Detecting CXX compile features
+[36m--[0m Detecting CXX compile features - done
+[36m--[0m Try OpenMP C flag = [-fopenmp]
+[36m--[0m Performing Test OpenMP_FLAG_DETECTED
+[36m--[0m Performing Test OpenMP_FLAG_DETECTED - Success
+[36m--[0m Try OpenMP CXX flag = [-fopenmp]
+[36m--[0m Performing Test OpenMP_FLAG_DETECTED
+[36m--[0m Performing Test OpenMP_FLAG_DETECTED - Success
+[36m--[0m Found OpenMP: -fopenmp
+[36m--[0m Performing Test FLAG_AVAILABLE
+[36m--[0m Performing Test FLAG_AVAILABLE - Success
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/kal1-4/anicar_ws/devel/.private/gnss_coordinate_transform
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/kal1-4/anicar_ws/devel;/opt/mrtsoftware/local;/opt/mrtsoftware/release;/opt/ros/kinetic
+[36m--[0m This workspace overlays: /home/kal1-4/anicar_ws/devel;/opt/mrtsoftware/local;/opt/mrtsoftware/release;/opt/ros/kinetic
+[36m--[0m Found PythonInterp: /opt/mrtsoftware/release/lib/mrt-build-tools/bin/python (found version "2.7.12")
+[36m--[0m Using PYTHON_EXECUTABLE: /opt/mrtsoftware/release/lib/mrt-build-tools/bin/python
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/kal1-4/anicar_ws/build/gnss_coordinate_transform/test_results
+[36m--[0m Found gmock sources under '/usr/src/gmock': gmock will be built
+[36m--[0m Looking for pthread.h
+[36m--[0m Looking for pthread.h - found
+[36m--[0m Looking for pthread_create
+[36m--[0m Looking for pthread_create - found
+[36m--[0m Found Threads: TRUE
+[36m--[0m Found gtest sources under '/usr/src/gmock': gtests will be built
+[36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
+[36m--[0m catkin 0.7.14
+[36m--[0m Boost version: 1.58.0
+[36m--[0m Found the following Boost libraries:
+[36m--[0m   python
+[36m--[0m Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython2.7.so (found version "2.7.12")
+[36m--[0m Found BoostPython: /usr/lib/x86_64-linux-gnu/libboost_python.so;/usr/lib/x86_64-linux-gnu/libpython2.7.so
+[36m--[0m Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1")
+[36m--[0m Found GeographicLib: /usr/lib/x86_64-linux-gnu/libGeographic.so
+[36m--[0m Adding python api library "python" to python module "gnss_coordinate_transform"
+[36m--[0m Adding header-only library with files include/gnss_coordinate_transform/convert_coordinates.hpp;include/gnss_coordinate_transform/local_geographic_cs.hpp;include/gnss_coordinate_transform/mercator.hpp
+[36m--[0m Marking targets "gnss_coordinate_transform-gnss_coordinate_transform-python-pyapi" of package "gnss_coordinate_transform" for installation
+[36m--[0m Marking HEADER FILES in "include" folder of package "gnss_coordinate_transform" for installation
+[36m--[0m Adding gtest unittest "gnss_coordinate_transform-test_gnss_coordinate_transform-test" with working dir /home/kal1-4/anicar_ws/src/gnss_coordinate_transform/test
+[36m--[0m Adding nosetests in folder test
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /home/kal1-4/anicar_ws/build/gnss_coordinate_transform

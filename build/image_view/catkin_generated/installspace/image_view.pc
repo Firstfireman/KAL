@@ -1,0 +1,8 @@
+prefix=/home/kal1-4/anicar_ws/install
+
+Name: image_view
+Description: Description of image_view
+Version: 1.12.19
+Cflags: -I/home/kal1-4/anicar_ws/install/include
+Libs: -L/home/kal1-4/anicar_ws/install/lib 
+Requires: dynamic_reconfigure

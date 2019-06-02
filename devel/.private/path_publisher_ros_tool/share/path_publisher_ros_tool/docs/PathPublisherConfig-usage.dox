@@ -1,0 +1,28 @@
+\subsubsection usage Usage
+\verbatim
+<node name="path_publisher" pkg="path_publisher_ros_tool" type="path_publisher">
+  <param name="verbosity" type="str" value="info" />
+  <param name="timer_rate" type="double" value="5.0" />
+  <param name="kos_shift" type="double" value="-0.2" />
+  <param name="delta_sigma" type="double" value="0.01" />
+  <param name="center_x" type="double" value="0.0" />
+  <param name="center_y" type="double" value="0.0" />
+  <param name="path_length" type="double" value="6.0" />
+  <param name="drive_distance" type="double" value="1.0" />
+  <param name="point_distance" type="double" value="0.02" />
+  <param name="radius_noise" type="double" value="0.2" />
+  <param name="rotation_noise" type="double" value="10.0" />
+  <param name="shift_noise" type="double" value="0.5" />
+  <param name="local_scope" type="double" value="2.0" />
+  <param name="least_points" type="int" value="10" />
+  <param name="stuck_time" type="double" value="10.0" />
+  <param name="BB_left_bottom_x" type="double" value="0.0" />
+  <param name="BB_left_bottom_y" type="double" value="0.0" />
+  <param name="BB_top_right_x" type="double" value="10.0" />
+  <param name="BB_top_right_y" type="double" value="10.0" />
+  <param name="road_length" type="double" value="10.0" />
+  <param name="path_publisher_topic" type="str" value="/path" />
+  <param name="path_publisher_queue_size" type="int" value="5" />
+</node>
+\endverbatim
+

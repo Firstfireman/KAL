@@ -1,0 +1,8 @@
+prefix=/home/kal1-4/anicar_ws/install
+
+Name: gnss_coordinate_transform
+Description: Description of gnss_coordinate_transform
+Version: 0.0.0
+Cflags: -I/home/kal1-4/anicar_ws/install/include -I/usr/include -I/opt/mrtsoftware/release/lib/mrt-build-tools/include/python2.7
+Libs: -L/home/kal1-4/anicar_ws/install/lib /usr/lib/x86_64-linux-gnu/libboost_python.so /usr/lib/x86_64-linux-gnu/libpython2.7.so /usr/lib/x86_64-linux-gnu/libGeographic.so
+Requires: 

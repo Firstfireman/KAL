@@ -1,0 +1,8 @@
+prefix=/home/kal1-4/anicar_ws/devel/.private/prosilica_driver
+
+Name: prosilica_driver
+Description: Description of prosilica_driver
+Version: 1.9.4
+Cflags: -I/home/kal1-4/anicar_ws/devel/.private/prosilica_driver/include
+Libs: -L/home/kal1-4/anicar_ws/devel/.private/prosilica_driver/lib 
+Requires: 

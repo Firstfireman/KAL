@@ -1,0 +1,4 @@
+Symlinking /home/kal1-4/anicar_ws/devel/share/mrt_image_geometry_ros/cmake/mrt_image_geometry_rosConfig.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/share/mrt_image_geometry_ros/cmake/mrt_image_geometry_rosConfig-version.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/lib/libmrt_image_geometry_ros.so
+Symlinking /home/kal1-4/anicar_ws/devel/lib/pkgconfig/mrt_image_geometry_ros.pc

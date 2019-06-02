@@ -1,0 +1,27 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~verbosity" : \b [str] Sets the verbosity for this node min: , default: info, max: 
+- \b "~timer_rate" : \b [double] publisher frequency min: 0.0, default: 5.0, max: 10.0
+- \b "~kos_shift" : \b [double] distance from vehicle frame id referred position to real vehicle center point min: -0.5, default: -0.2, max: 0.5
+- \b "~delta_sigma" : \b [double] delta angle to generate sample path min: 0.0, default: 0.01, max: 0.1
+- \b "~center_x" : \b [double] x axis value of center point of map min: 0.0, default: 0.0, max: 15.0
+- \b "~center_y" : \b [double] y axis value of center point of map min: 0.0, default: 0.0, max: 15.0
+- \b "~path_length" : \b [double] length of a published path min: 1.0, default: 6.0, max: 10.0
+- \b "~drive_distance" : \b [double] drive distance before update path min: 0.1, default: 1.0, max: 3.0
+- \b "~point_distance" : \b [double] distance between two points min: 0.005, default: 0.02, max: 0.5
+- \b "~radius_noise" : \b [double] standard deviation of noise to radius when generate sample map min: 0.0, default: 0.2, max: 0.5
+- \b "~rotation_noise" : \b [double] standard deviation of noise to rotation when process sample map min: 0.0, default: 10.0, max: 20.0
+- \b "~shift_noise" : \b [double] standard deviation of noise to lateral shift base on anicar scale min: 0.0, default: 0.5, max: 1.0
+- \b "~local_scope" : \b [double] real world width and height of local area min: 0.0, default: 2.0, max: 50.0
+- \b "~least_points" : \b [int] least points in image area min: 0, default: 10, max: 500
+- \b "~stuck_time" : \b [double] max limited time the vehicle allowed to path through the path min: 0.0, default: 10.0, max: 20.0
+- \b "~BB_left_bottom_x" : \b [double] position of left bottom corner of boundary min: -std::numeric_limits<double>::infinity(), default: 0.0, max: std::numeric_limits<double>::infinity()
+- \b "~BB_left_bottom_y" : \b [double] position of left bottom corner of boundary min: -std::numeric_limits<double>::infinity(), default: 0.0, max: std::numeric_limits<double>::infinity()
+- \b "~BB_top_right_x" : \b [double] position of top right corner of boundary min: -std::numeric_limits<double>::infinity(), default: 10.0, max: std::numeric_limits<double>::infinity()
+- \b "~BB_top_right_y" : \b [double] position of top right corner of boundary min: -std::numeric_limits<double>::infinity(), default: 10.0, max: std::numeric_limits<double>::infinity()
+- \b "~road_length" : \b [double] the length of sampling path in train mode when sampling path from osm file min: -std::numeric_limits<double>::infinity(), default: 10.0, max: std::numeric_limits<double>::infinity()
+- \b "~path_publisher_topic" : \b [str] Topic for path publisher min: , default: /path, max: 
+- \b "~path_publisher_queue_size" : \b [int] Queue size for path publisher min: 0, default: 5, max: 2147483647
+

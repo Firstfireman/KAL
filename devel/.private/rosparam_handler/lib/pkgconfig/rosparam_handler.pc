@@ -1,0 +1,8 @@
+prefix=/home/kal1-4/anicar_ws/devel/.private/rosparam_handler
+
+Name: rosparam_handler
+Description: Description of rosparam_handler
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/kal1-4/anicar_ws/devel/.private/rosparam_handler/lib 
+Requires: catkin

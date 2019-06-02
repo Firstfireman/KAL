@@ -1,0 +1,50 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The C compiler identification is GNU 7.2.0
+[36m--[0m The CXX compiler identification is GNU 7.2.0
+[36m--[0m Check for working C compiler: /usr/bin/cc
+[36m--[0m Check for working C compiler: /usr/bin/cc -- works
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+[36m--[0m Detecting C compile features
+[36m--[0m Detecting C compile features - done
+[36m--[0m Check for working CXX compiler: /usr/bin/c++
+[36m--[0m Check for working CXX compiler: /usr/bin/c++ -- works
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Detecting CXX compile features
+[36m--[0m Detecting CXX compile features - done
+[36m--[0m Try OpenMP C flag = [-fopenmp]
+[36m--[0m Performing Test OpenMP_FLAG_DETECTED
+[36m--[0m Performing Test OpenMP_FLAG_DETECTED - Success
+[36m--[0m Try OpenMP CXX flag = [-fopenmp]
+[36m--[0m Performing Test OpenMP_FLAG_DETECTED
+[36m--[0m Performing Test OpenMP_FLAG_DETECTED - Success
+[36m--[0m Found OpenMP: -fopenmp
+[36m--[0m Performing Test FLAG_AVAILABLE
+[36m--[0m Performing Test FLAG_AVAILABLE - Success
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/kal1-4/anicar_ws/devel/.private/generic_logger
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/kal1-4/anicar_ws/devel;/opt/mrtsoftware/local;/opt/mrtsoftware/release;/opt/ros/kinetic
+[36m--[0m This workspace overlays: /home/kal1-4/anicar_ws/devel;/opt/mrtsoftware/local;/opt/mrtsoftware/release;/opt/ros/kinetic
+[36m--[0m Found PythonInterp: /opt/mrtsoftware/release/lib/mrt-build-tools/bin/python (found version "2.7.12")
+[36m--[0m Using PYTHON_EXECUTABLE: /opt/mrtsoftware/release/lib/mrt-build-tools/bin/python
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/kal1-4/anicar_ws/build/generic_logger/test_results
+[36m--[0m Found gmock sources under '/usr/src/gmock': gmock will be built
+[36m--[0m Looking for pthread.h
+[36m--[0m Looking for pthread.h - found
+[36m--[0m Looking for pthread_create
+[36m--[0m Looking for pthread_create - found
+[36m--[0m Found Threads: TRUE
+[36m--[0m Found gtest sources under '/usr/src/gmock': gtests will be built
+[36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
+[36m--[0m catkin 0.7.14
+[36m--[0m Adding header-only library with files include/generic_logger/sinks/ros_sink.h;include/generic_logger/spdlog/async_logger.h;include/generic_logger/spdlog/details/logger_impl.h;include/generic_logger/spdlog/details/null_mutex.h;include/generic_logger/spdlog/details/os.h;include/generic_logger/spdlog/details/mpmc_bounded_q.h;include/generic_logger/spdlog/details/async_logger_impl.h;include/generic_logger/spdlog/details/file_helper.h;include/generic_logger/spdlog/details/log_msg.h;include/generic_logger/spdlog/details/registry.h;include/generic_logger/spdlog/details/spdlog_impl.h;include/generic_logger/spdlog/details/async_log_helper.h;include/generic_logger/spdlog/details/pattern_formatter_impl.h;include/generic_logger/spdlog/tweakme.h;include/generic_logger/spdlog/common.h;include/generic_logger/spdlog/spdlog.h;include/generic_logger/spdlog/fmt/ostr.h;include/generic_logger/spdlog/fmt/fmt.h;include/generic_logger/spdlog/fmt/bundled/ostream.h;include/generic_logger/spdlog/fmt/bundled/format.h;include/generic_logger/spdlog/fmt/bundled/time.h;include/generic_logger/spdlog/fmt/bundled/printf.h;include/generic_logger/spdlog/fmt/bundled/posix.h;include/generic_logger/spdlog/logger.h;include/generic_logger/spdlog/sinks/msvc_sink.h;include/generic_logger/spdlog/sinks/ansicolor_sink.h;include/generic_logger/spdlog/sinks/dist_sink.h;include/generic_logger/spdlog/sinks/stdout_sinks.h;include/generic_logger/spdlog/sinks/android_sink.h;include/generic_logger/spdlog/sinks/windebug_sink.h;include/generic_logger/spdlog/sinks/sink.h;include/generic_logger/spdlog/sinks/wincolor_sink.h;include/generic_logger/spdlog/sinks/base_sink.h;include/generic_logger/spdlog/sinks/ostream_sink.h;include/generic_logger/spdlog/sinks/null_sink.h;include/generic_logger/spdlog/sinks/file_sinks.h;include/generic_logger/spdlog/sinks/syslog_sink.h;include/generic_logger/spdlog/formatter.h;include/generic_logger/prettyprint.hpp;include/generic_logger/generic_logger.hpp
+[36m--[0m Marking HEADER FILES in "include" folder of package "generic_logger" for installation
+[36m--[0m Adding gtest unittest "generic_logger-test_generic_logger-test" with working dir /home/kal1-4/anicar_ws/src/generic_logger/test
+[36m--[0m Adding nosetests in folder test
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /home/kal1-4/anicar_ws/build/generic_logger

@@ -1,0 +1,8 @@
+prefix=/home/kal1-4/anicar_ws/devel/.private/util_eigen
+
+Name: util_eigen
+Description: Description of util_eigen
+Version: 1.0.0
+Cflags: -I/home/kal1-4/anicar_ws/src/util_eigen/include -I/usr/include/eigen3
+Libs: -L/home/kal1-4/anicar_ws/devel/.private/util_eigen/lib 
+Requires: 

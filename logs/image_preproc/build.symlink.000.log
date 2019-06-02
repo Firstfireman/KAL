@@ -1,0 +1,4 @@
+Symlinking /home/kal1-4/anicar_ws/devel/share/image_preproc/cmake/image_preprocConfig.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/share/image_preproc/cmake/image_preprocConfig-version.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/lib/libimage_preproc.so
+Symlinking /home/kal1-4/anicar_ws/devel/lib/pkgconfig/image_preproc.pc

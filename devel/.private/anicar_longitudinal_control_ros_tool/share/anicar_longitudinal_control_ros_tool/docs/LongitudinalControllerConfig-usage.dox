@@ -1,0 +1,7 @@
+\subsubsection usage Usage
+\verbatim
+<node name="longitudinal_controller" pkg="anicar_longitudinal_control_ros_tool" type="longitudinal_controller">
+  <param name="velocity" type="double" value="0.5" />
+</node>
+\endverbatim
+

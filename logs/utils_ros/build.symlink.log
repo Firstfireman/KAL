@@ -1,0 +1,4 @@
+Symlinking /home/kal1-4/anicar_ws/devel/share/utils_ros/cmake/utils_rosConfig-version.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/share/utils_ros/cmake/utils_rosConfig.cmake
+Symlinking /home/kal1-4/anicar_ws/devel/lib/pkgconfig/utils_ros.pc
+Symlinking /home/kal1-4/anicar_ws/devel/lib/python2.7/dist-packages/utils_ros/__init__.py

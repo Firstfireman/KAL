@@ -1,0 +1,7 @@
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[  0%] Built target _catkin_empty_exported_target
+[35m[1mScanning dependencies of target road_map[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/road_map.dir/src/RoadMap.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/road_map.dir/src/osm_writer.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/kal1-4/anicar_ws/devel/.private/road_map/lib/libroad_map.so[0m
+[100%] Built target road_map

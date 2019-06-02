@@ -1,0 +1,6 @@
+devel_space: /home/kal1-4/anicar_ws/devel
+install: false
+install_space: /home/kal1-4/anicar_ws/install
+profile: release
+source_space: /home/kal1-4/anicar_ws/src
+workspace: /home/kal1-4/anicar_ws
